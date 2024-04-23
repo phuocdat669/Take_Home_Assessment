@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PatientInfo.API</name>
+    </assembly>
+    <members>
+        <member name="M:PatientInfo.API.Controllers.PatientsController.FormatPatientsInput">
+            <summary>
+            Read csv input from the request body and format it.
+            </summary>
+            <returns>Formatted string with each element enclosed in square bracket</returns>
+        </member>
+    </members>
+</doc>
